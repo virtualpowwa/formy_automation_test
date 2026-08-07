@@ -1,0 +1,23 @@
+{
+  "name": "formy_automation_test",
+  "version": "1.0.0",
+  "description": "Full playwright test project using Formy website training",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualpowwa/formy_automation_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/virtualpowwa/formy_automation_test/issues"
+  },
+  "homepage": "https://github.com/virtualpowwa/formy_automation_test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  }
+}
