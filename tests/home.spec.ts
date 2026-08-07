@@ -83,8 +83,6 @@ test('Components menu opens correctly', async ({ page }) => {
       name: item.name,
       exact: true
     });
-
-    console.log('count in menu:', await menuItem.count());
     await expect(menuItem).toBeVisible();
   }
 
