@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/virtualpowwa/formy_automation_test#readme",
   "devDependencies": {
+    "@faker-js/faker": "^10.5.0",
     "@playwright/test": "^1.62.1",
     "@types/node": "^26.1.2"
   }
